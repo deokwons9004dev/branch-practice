@@ -17,4 +17,4 @@ AndrewID: deokwons
 master branch: Added another line to file. (fixed typo)
 Experiment branch: experimental idea 1 (polished new feature)
 
-// Added line to master file.
+// Added line to master file. (fixed typo)
