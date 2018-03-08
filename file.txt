@@ -1,0 +1,18 @@
+Git Stuco S18 Midterm
+Name: David Song
+AndrewID: deokwons
+
+1. Distributed. In a distributed repo your commits are local until you push your changes for others to pull and update.
+
+2. The file has been added to the staging area, followed by another change in the file.
+
+3.
+	1. Commit e41f5e7
+
+	2. Commit aa2d5ac
+
+4. Repo URL: 
+
+5. Repo URL:
+master branch: Added another line to file. (fixed typo)
+Experiment branch: experimental idea 1 (polished new feature)
